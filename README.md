@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Won Yong Ha</h1>
-<h3 align="center">PhD Candidate at NYU Tandon School of Engineering ECE</h3>
+<h3 align="center">Amazon SDE | PhD Candidate at NYU Tandon School of Engineering ECE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpmsora&label=Profile%20views&color=0e75b6&style=flat" alt="hpmsora" /> </p>
 
